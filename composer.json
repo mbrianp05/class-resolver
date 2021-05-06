@@ -11,7 +11,7 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "psr-4": {"Laton\\Framework\\Kernel\\":  ""}
+        "psr-4": {"Laton\\Framework\\Kernel\\ClassResolver\\":  ""}
     },
     "description": "A class Resolver"
 }
